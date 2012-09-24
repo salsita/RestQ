@@ -36,6 +36,10 @@ Now when we need the actual email address, we do:
 
 et voila!
 
+
+## Installation
+    npm install restq
+
 ### Kudos to
 [Underscore](https://github.com/documentcloud/underscore/),
  [Underscore.string](https://github.com/epeli/underscore.string),
