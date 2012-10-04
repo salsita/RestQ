@@ -9,10 +9,10 @@ resource. And we want to get the post author's email.
 
 One way would be to do something like this:
 
-    request.get('http://server.com/posts/42.json, (err, body, res) ->
+    request.get('http://server.com/posts/42.json, (err, res, body) ->
       if err or res.statusCode isnt 200
         # Handle errors here...
-      request.get('http://server.com/people/#{body.author.id}.json), (err, body, res) ->
+      request.get('http://server.com/people/#{body.author.id}.json), (err, res, body) ->
         if err or res.statusCode isnt 200
           # Handle errors here.
         email = body['email-address']
