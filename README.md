@@ -1,5 +1,5 @@
 #RestQ
-RestQ is a little helper module that allows us to follow RESTful API links in a more declarative style.
+RestQ is a little helper module that allows you to follow RESTful API links in a more declarative style.
 
 <a href="https://nodei.co/npm/restq/"><img src="https://nodei.co/npm/restq.png"></a>
 [![Build Status](https://secure.travis-ci.org/salsita/RestQ.png)](http://travis-ci.org/salsita/restq)
