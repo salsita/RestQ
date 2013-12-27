@@ -2,7 +2,7 @@
   "author": "Tomas Brambora <tomas@salsitasoft.com>",
   "name": "restq",
   "description": "Declarative way of getting data from RESTful APIs.",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "keywords": [
     "rest",
     "restful",
