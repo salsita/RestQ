@@ -42,6 +42,9 @@ et voila!
 
 ## Installation
     npm install restq
+    
+## Running tests
+    npm test
 
 ### Kudos to
 [Underscore](https://github.com/documentcloud/underscore/),
