@@ -1,7 +1,7 @@
 
 nock = require 'nock'
 
-RQ = require 'restQuery'
+RQ = require '../restQuery'
 request = require 'request'
 
 chai = require 'chai'
