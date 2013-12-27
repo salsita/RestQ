@@ -3,6 +3,14 @@
   "name": "restq",
   "description": "Declarative way of getting data from RESTful APIs.",
   "version": "0.10.0",
+  "keywords": [
+    "rest",
+    "restful",
+    "query",
+    "web",
+    "request",
+    "api"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/realyze/RestQ"
