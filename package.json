@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/realyze/RestQ"
+    "url": "https://github.com/salsita/RestQ"
   },
   "scripts": {
     "test": "mocha --compilers coffee:coffee-script"
